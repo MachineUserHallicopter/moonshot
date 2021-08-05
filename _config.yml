@@ -50,4 +50,4 @@ plugins:
   - jekyll-paginate
 
 title: "moonshot"
-baseurl: '/"moonshot"/' # name of the repository
+baseurl: '/moonshot/' # name of the repository
